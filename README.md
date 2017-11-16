@@ -99,6 +99,7 @@ const OS = getOS()
 ### Time  
 #### &emsp;&emsp;[formatPassTime][formatPassTime]&emsp;&emsp;格式化${startTime}距现在的已过时间
 #### &emsp;&emsp;[formatRemainTime][formatRemainTime]&emsp;&emsp;格式化现在距${endTime}的剩余时间
+#### &emsp;&emsp;[timestampInterval][timestampInterval]&emsp;&emsp;计算时间戳${startTime}与${endTime}时间间隔
 
 ### Url
 #### &emsp;&emsp;[parseQueryString][parseQueryString]&emsp;&emsp;url参数转对象
@@ -144,6 +145,7 @@ const OS = getOS()
 
 [formatPassTime]:https://github.com/proYang/outils/blob/master/src/time/formatPassTime.js
 [formatRemainTime]:https://github.com/proYang/outils/blob/master/src/time/formatRemainTime.js
+[timestampInterval]:https://github.com/proYang/outils/blob/master/src/time/timestampInterval.js
 
 [parseQueryString]:https://github.com/proYang/outils/blob/master/src/url/parseQueryString.js
 [stringfyQueryString]:https://github.com/proYang/outils/blob/master/src/url/stringfyQueryString.js
