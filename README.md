@@ -145,7 +145,7 @@ const OS = getOS()
 
 [formatPassTime]:https://github.com/proYang/outils/blob/master/src/time/formatPassTime.js
 [formatRemainTime]:https://github.com/proYang/outils/blob/master/src/time/formatRemainTime.js
-[timestampInterval]:https://github.com/proYang/outils/blob/master/src/time/timestampInterval.js
+[timestampInterval]:https://github.com/numberfan/outils/blob/master/src/time/timestampInterval.js
 
 [parseQueryString]:https://github.com/proYang/outils/blob/master/src/url/parseQueryString.js
 [stringfyQueryString]:https://github.com/proYang/outils/blob/master/src/url/stringfyQueryString.js
