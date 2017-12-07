@@ -110,7 +110,7 @@ const OS = getOS()
 #### &emsp;&emsp;[stringfyQueryString][stringfyQueryString]&emsp;&emsp;对象序列化
 
 [arrayEqual]:https://github.com/proYang/outils/blob/master/src/array/arrayEqual.js
-[isLikeArray]:
+[isLikeArray]:https://github.com/numberfan/outils/blob/master/isLikeArray.js
 
 [addClass]:https://github.com/proYang/outils/blob/master/src/class/addClass.js
 [hasClass]:https://github.com/proYang/outils/blob/master/src/class/hasClass.js
@@ -120,7 +120,7 @@ const OS = getOS()
 [removeCookie]:https://github.com/proYang/outils/blob/master/src/cookie/removeCookie.js
 [setCookie]:https://github.com/proYang/outils/blob/master/src/cookie/setCookie.js
 
-[dataTypeCheck]:
+[dataTypeCheck]:https://github.com/numberfan/outils/blob/master/dataTypeCheck.js
 
 [getExplore]:https://github.com/proYang/outils/blob/master/src/device/getExplore.js
 [getOS]:https://github.com/proYang/outils/blob/master/src/device/getOS.js
