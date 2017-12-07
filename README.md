@@ -46,7 +46,8 @@ const OS = getOS()
 ## API文档
 
 ### Array  
-#### &emsp;&emsp;[arrayEqual][arrayEqual]&emsp;&emsp;判断两个数组是否相等 
+#### &emsp;&emsp;[arrayEqual][arrayEqual]&emsp;&emsp;判断两个数组是否相等
+#### &emsp;&emsp;[isLikeArray][isLikeArray]&emsp;&emsp;判断类数组
 
 ### Class
 #### &emsp;&emsp;[addClass][addClass]&emsp;&emsp;为元素添加class  
@@ -56,7 +57,10 @@ const OS = getOS()
 ### Cookie 
 #### &emsp;&emsp;[getCookie][getCookie]&emsp;&emsp;根据name读取Cookie  
 #### &emsp;&emsp;[removeCookie][removeCookie]&emsp;&emsp;根据name删除Cookie
-#### &emsp;&emsp;[setCookie][setCookie]&emsp;&emsp;添加Cookie 
+#### &emsp;&emsp;[setCookie][setCookie]&emsp;&emsp;添加Cookie
+
+### Data
+#### &emsp;&emsp;[dataTypeCheck][dataTypeCheck]&emsp;&emsp;数据类型检测
 
 ### Device  
 #### &emsp;&emsp;[getExplore][getExplore]&emsp;&emsp;获取浏览器类型和版本号  
@@ -106,6 +110,7 @@ const OS = getOS()
 #### &emsp;&emsp;[stringfyQueryString][stringfyQueryString]&emsp;&emsp;对象序列化
 
 [arrayEqual]:https://github.com/proYang/outils/blob/master/src/array/arrayEqual.js
+[isLikeArray]:
 
 [addClass]:https://github.com/proYang/outils/blob/master/src/class/addClass.js
 [hasClass]:https://github.com/proYang/outils/blob/master/src/class/hasClass.js
@@ -114,6 +119,8 @@ const OS = getOS()
 [getCookie]:https://github.com/proYang/outils/blob/master/src/cookie/getCookie.js
 [removeCookie]:https://github.com/proYang/outils/blob/master/src/cookie/removeCookie.js
 [setCookie]:https://github.com/proYang/outils/blob/master/src/cookie/setCookie.js
+
+[dataTypeCheck]:
 
 [getExplore]:https://github.com/proYang/outils/blob/master/src/device/getExplore.js
 [getOS]:https://github.com/proYang/outils/blob/master/src/device/getOS.js
